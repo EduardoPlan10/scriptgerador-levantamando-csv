@@ -8,13 +8,6 @@ Para instalar basta usar na linha de comando:
   $ pip install requirements.txt
 ```
 
-* Item 1
-* Item 2
-* Item 3
-  * Sub Item A
-  * Sub Item B
-
-
 Ajustar os arquivos de configuração contidos no diretório /config
 
 Onde: 
