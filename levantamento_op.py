@@ -44,7 +44,7 @@ def write_to_file(header: list, data: list, results: str) -> Tuple:
 
 def configs_validation(
     setup_templates: str, setup_setores: str, user_data_filepath: str
-):
+) -> Tuple:
     with open(setup_setores, encoding="utf-8") as json_file:
         setores_data = json.load(json_file)["setores"]
     with open(setup_templates, encoding="utf-8") as json_file:
