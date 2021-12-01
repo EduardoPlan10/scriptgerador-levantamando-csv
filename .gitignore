@@ -137,6 +137,6 @@ dmypy.json
 # Cython debug symbols
 cython_debug/
 
-config/test*
-results/*
+config/test-*
+results/patu-levantamento-results.csv
 tmp
