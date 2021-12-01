@@ -1,0 +1,14 @@
+{
+    "setores": {
+        "CON": "Dpt. Ciências Contábeis",
+        "EDU": "Dpt. Educação",
+        "MAT": "Dpt. Matemática",
+        "LET": "Dpt. Letras",
+        "SEC": "Secretaria Geral",
+        "PROF": "Salas dos Professores",
+        "INFO": "Lab. Informática",
+        "LABCON": "Lab. Ciências Contábeis",
+        "LABMAT": "Lab. Matemática",
+        "BIB": "Biblioteca"
+    }
+}

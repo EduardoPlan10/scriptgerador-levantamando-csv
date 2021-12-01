@@ -1,0 +1,255 @@
+{
+    "items": [
+        {
+            "modelo": "M1",
+            "setor": "CON",
+            "tombamento": "48724"
+        },
+        {
+            "modelo": "M1",
+            "setor": "CON",
+            "tombamento": "67437"
+        },
+        {
+            "modelo": "M3",
+            "setor": "CON",
+            "tombamento": "39576"
+        },
+        {
+            "modelo": "M1",
+            "setor": "EDU",
+            "tombamento": "67431"
+        },
+        {
+            "modelo": "M4",
+            "setor": "EDU",
+            "tombamento": "70637"
+        },
+        {
+            "modelo": "M3",
+            "setor": "MAT",
+            "tombamento": "39601"
+        },
+        {
+            "modelo": "M1",
+            "setor": "MAT",
+            "tombamento": "48730"
+        },
+        {
+            "modelo": "M5",
+            "setor": "SEC",
+            "tombamento": "58378"
+        },
+        {
+            "modelo": "M5",
+            "setor": "SEC",
+            "tombamento": "58382",
+            "obs": "Problema na alimentação"
+        },
+        {
+            "modelo": "M5",
+            "setor": "LET",
+            "tombamento": "58381"
+        },
+        {
+            "modelo": "M6",
+            "setor": "LET",
+            "tombamento": "52057"
+        },
+        {
+            "modelo": "M6",
+            "setor": "BIB",
+            "tombamento": "52067"
+        },
+        {
+            "modelo": "M3",
+            "setor": "BIB",
+            "tombamento": "39680"
+        },
+        {
+            "modelo": "M7",
+            "setor": "BIB",
+            "tombamento": "52164"
+        },
+        {
+            "modelo": "M1",
+            "setor": "BIB",
+            "tombamento": "48710"
+        },
+        {
+            "modelo": "M2",
+            "setor": "BIB",
+            "tombamento": "67434"
+        },
+        {
+            "modelo": "M3",
+            "setor": "PROF",
+            "tombamento": "39743"
+        },
+        {
+            "modelo": "M3",
+            "setor": "PROF",
+            "tombamento": "39722"
+        },
+        {
+            "modelo": "M3",
+            "setor": "PROF",
+            "tombamento": "39578"
+        },
+        {
+            "modelo": "M3",
+            "setor": "PROF",
+            "tombamento": "39616"
+        },
+        {
+            "modelo": "M3",
+            "setor": "PROF",
+            "tombamento": "39379"
+        },
+        {
+            "modelo": "M7",
+            "setor": "PROF",
+            "tombamento": "41590"
+        },
+        {
+            "modelo": "M1",
+            "setor": "LABMAT",
+            "tombamento": "48731"
+        },
+        {
+            "modelo": "M2",
+            "setor": "LABMAT",
+            "tombamento": "67407"
+        },
+        {
+            "modelo": "M7",
+            "setor": "LABCON",
+            "tombamento": "41588"
+        },
+        {
+            "modelo": "M7",
+            "setor": "LABCON",
+            "tombamento": "41564"
+        },
+        {
+            "modelo": "M7",
+            "setor": "LABCON",
+            "tombamento": "41574"
+        },
+        {
+            "modelo": "M7",
+            "setor": "LABCON",
+            "tombamento": "41587"
+        },
+        {
+            "modelo": "M7",
+            "setor": "LABCON",
+            "tombamento": "41481"
+        },
+        {
+            "modelo": "M7",
+            "setor": "LABCON",
+            "tombamento": "41483"
+        },
+        {
+            "modelo": "M7",
+            "setor": "LABCON",
+            "tombamento": "41583"
+        },
+        {
+            "modelo": "M7",
+            "setor": "LABCON",
+            "tombamento": "41584"
+        },
+        {
+            "modelo": "M7",
+            "setor": "LABCON",
+            "tombamento": "41600"
+        },
+        {
+            "modelo": "M7",
+            "setor": "LABCON",
+            "tombamento": "41562"
+        },
+        {
+            "modelo": "M7",
+            "setor": "LABCON",
+            "tombamento": "41591"
+        },
+        {
+            "modelo": "M7",
+            "setor": "LABCON",
+            "tombamento": "41589"
+        },
+        {
+            "modelo": "M7",
+            "setor": "LABCON",
+            "tombamento": "41582"
+        },
+        {
+            "modelo": "M7",
+            "setor": "LABCON",
+            "tombamento": "41566"
+        },
+        {
+            "modelo": "M7",
+            "setor": "LABCON",
+            "tombamento": "41585"
+        },
+        {
+            "modelo": "M7",
+            "setor": "LABCON",
+            "tombamento": "41576"
+        },
+        {
+            "modelo": "M5",
+            "setor": "INFO",
+            "tombamento": "58375"
+        },
+        {
+            "modelo": "M5",
+            "setor": "INFO",
+            "tombamento": "58385"
+        },
+        {
+            "modelo": "M5",
+            "setor": "INFO",
+            "tombamento": "58383"
+        },
+        {
+            "modelo": "M5",
+            "setor": "INFO",
+            "tombamento": "58386"
+        },
+        {
+            "modelo": "M5",
+            "setor": "INFO",
+            "tombamento": "58376"
+        },
+        {
+            "modelo": "M5",
+            "setor": "INFO",
+            "tombamento": "58377"
+        },
+        {
+            "modelo": "M5",
+            "setor": "INFO",
+            "tombamento": "58380"
+        },
+        {
+            "modelo": "M5",
+            "setor": "INFO",
+            "tombamento": "58379"
+        },
+        {
+            "modelo": "M5",
+            "setor": "INFO",
+            "tombamento": "58387"
+        },
+        {
+            "modelo": "M5",
+            "setor": "INFO",
+            "tombamento": "58384"
+        }
+    ]
+}

@@ -1,0 +1,53 @@
+{
+    "template-pc": {
+        "M1": [
+            "N3",
+            "AMD Athom II x2 2.9GHz",
+            "2GB",
+            "500 Gb",
+            "Windows 7"
+        ],
+        "M2": [
+            "NTC",
+            "AMD FX-6300",
+            "4GB",
+            "500 Gb",
+            "Windows 10"
+        ],
+        "M3": [
+            "Plugtech",
+            "Intel Pentium Dual Core E5200 2.5ghz",
+            "2GB",
+            "250 Gb",
+            "Windows xp"
+        ],
+        "M4": [
+            "JAB",
+            "Intel Core I5",
+            "4GB",
+            "500 Gb",
+            "Windows 10"
+        ],
+        "M5": [
+            "Teravix",
+            "Intel Core I3",
+            "4GB",
+            "500 Gb",
+            "Windows 10"
+        ],
+        "M6": [
+            "HP",
+            "AMD Athlon II X2 B28 3.4ghz",
+            "4GB",
+            "500 Gb",
+            "Windows 7"
+        ],
+        "M7": [
+            "HP",
+            "Intel Core 2 Quad Q8400",
+            "2GB",
+            "250 Gb",
+            "Windows Vista"
+        ]
+    }
+}

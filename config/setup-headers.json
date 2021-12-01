@@ -1,0 +1,13 @@
+{
+    "headers": [
+        "Item nº",
+        "Marca",
+        "Processador",
+        "Memória",
+        "HD",
+        "OS",
+        "Setor",
+        "Tombamento",
+        "OBS"
+    ]
+}
