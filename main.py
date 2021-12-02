@@ -1,5 +1,6 @@
 import pathlib
 
+import click
 import colorama
 from colorama import Fore, Style
 
@@ -16,13 +17,14 @@ def main():
     setup_templates_filepath = cwd / "config/setup-templates.json"
     user_data_filepath = cwd / "config/user-data.json"
     results_csv = cwd / "results/levantamento-results.csv"
+    click.echo(click.style("\n Failsafe Activated halting bot.", fg="red"))
     fail_state, missing_setores, missing_modelos = levantamento_op.configs_validation(
         setup_templates_filepath, setup_setores_filepath, user_data_filepath
     )
     if fail_state is True:
-        print("Resolva os erros dos arquivos de configuração para continuar.")
+        click.echo("Resolva os erros dos arquivos de configuração para continuar.")
         for modelo in missing_modelos:
-            print(
+            click.echo(
                 "O sertor "
                 + Fore.RED
                 + modelo
@@ -32,7 +34,7 @@ def main():
                 )
             )
         for setor in missing_setores:
-            print(
+            click.echo(
                 "O sertor "
                 + Fore.RED
                 + setor

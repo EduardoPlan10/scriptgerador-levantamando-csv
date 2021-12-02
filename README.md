@@ -5,7 +5,7 @@ Script em python para gerar um .csv contento dados de computadores.
 Para instalar basta usar na linha de comando:
 
 ```bash
-  $ pip install requirements.txt
+  $ pip install -r requirements.txt
 ```
 
 Ajustar os arquivos de configuração contidos no diretório /config
@@ -23,3 +23,7 @@ Após a configuração basta executas o script usando:
 ```
 
 O resultado será gerado em /results/levantamento-results.csv
+
+## Considerações
+
+Para também ser compatível com o SO windows foi usada a biblioteca colorama para as mensagens do terminal.
