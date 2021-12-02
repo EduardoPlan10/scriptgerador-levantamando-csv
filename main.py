@@ -10,11 +10,11 @@ colorama.init()
 
 def main():
 
-    cwd = pathlib.Path.cwd() / "scripts/levantamento/"
+    cwd = pathlib.Path.cwd()
     setup_headers_filepath = cwd / "config/setup-headers.json"
     setup_setores_filepath = cwd / "config/setup-setores.json"
     setup_templates_filepath = cwd / "config/setup-templates.json"
-    user_data_filepath = cwd / "config/test-user-data.json"
+    user_data_filepath = cwd / "config/user-data.json"
     results_csv = cwd / "results/levantamento-results.csv"
     fail_state, missing_setores, missing_modelos = levantamento_op.configs_validation(
         setup_templates_filepath, setup_setores_filepath, user_data_filepath
