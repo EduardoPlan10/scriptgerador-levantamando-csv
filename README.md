@@ -19,7 +19,7 @@ Onde:
 Após a configuração basta executas o script usando:
 
 ```bash
-  $ python main.py
+  $ python3 main.py
 ```
 
 O resultado será gerado em /results/levantamento-results.csv
